@@ -1,0 +1,13 @@
+Customer_ID,Customer_Name,Customer_Type,Region,,,
+C001,Rahul Sharma,Retail,North,,,
+C002,Anita Mehta,Corporate,North,,,
+C003,Suresh Iyer,Retail,North,,,
+C004,Priya Nair,Corporate,South,,,
+C005,Arjun Rao,Corporate,South,,,1
+C006,Meena Kapoor,Retail,South,,,
+C007,Vikram Singh,Retail,East,,,
+C008,Kavita Das,Corporate,East,,,
+C009,Rohit Verma,Retail,East,,,
+C010,Neha Gupta,Corporate,West,,,
+C011,Aditya Jain,Corporate,West,,,
+C012,Pooja Malhotra,Retail,West,,,
