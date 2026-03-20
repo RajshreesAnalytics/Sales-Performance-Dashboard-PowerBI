@@ -34,7 +34,8 @@ This dashboard helps answer questions such as:
 The goal of this project is to build a clean, interactive, and business-focused sales dashboard using Power BI and present insights in a portfolio-ready format.
 
 ## Dashboard Preview
-_Add your final dashboard screenshot here after uploading it to the repository._
+<img width="602" height="371" alt="Sales Performance Dashboard" src="https://github.com/user-attachments/assets/b597e8f8-c813-47be-9a64-505c5a844f4b" />
+
 
 ## Author
 Rajshree
